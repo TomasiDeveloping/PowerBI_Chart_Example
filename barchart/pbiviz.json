@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "barchart",
+        "displayName": "My Barchart",
+        "guid": "barchart7740CDC74CBA432EB1F6652ABEBDFC56",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "My test barchart",
+        "supportUrl": "https://vistasys.ch",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Tomasi Patrick",
+        "email": "p.tomasi@vistasys.ch"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
